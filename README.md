@@ -1,12 +1,12 @@
 #### Diffusion Models
 
-В данной работе исследуется применение диффузионных моделей в классическом режиме, режиме условной генерации и inpainting
+В данной работе исследуется применение диффузионных моделей в классическом режиме, режиме условной генерации и inpainting для датасета FsashionMNIST.
 
 #### Содержимое репозитория
 
 * [diffusion_models_upd_final.ipynb](diffusion_models_upd_final.ipynb) - исходный файл (.ipynb) с кодом реализации всех методов генерации. Для следования пунктам задания выполнение помечается символом ✅
 
-* [prediction_animation.gif](prediction_animation.gif)- GIF-файл с примером анимации восставновления изображений из шума.
+* [prediction_animation.gif](prediction_animation.gif) - GIF-файл с примером анимации восставновления изображений из шума.
 
 * [tensorboard_logs](tensorboard_logs) - папка с примерами логов в TensorBoard.
 
